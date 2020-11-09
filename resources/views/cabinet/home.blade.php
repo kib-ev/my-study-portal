@@ -13,8 +13,8 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
-                    MAIN PAGE
+                    CABINET <br>
+                    {{ __('You are logged in!') }}
                 </div>
             </div>
         </div>
